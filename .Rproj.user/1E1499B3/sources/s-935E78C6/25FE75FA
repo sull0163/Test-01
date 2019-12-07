@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575742522972.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3812581404",
+    "id" : "25FE75FA",
+    "lastKnownWriteTime" : 1575742570,
+    "last_content_update" : -2147483648,
+    "path" : "C:/MyDocs/R Projects/Test-01/Scripts/SampleScript.R",
+    "project_path" : "Scripts/SampleScript.R",
+    "properties" : {
+        "cursorPosition" : "0,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
